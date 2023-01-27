@@ -9,7 +9,7 @@ const stateCapitals: Record<string, string> = {
     'Arkansas': 'Little Rock',
     'Texa': 'Austin',
     'Idaho': 'Salem',
-};
+}; 
 
 /*function getRoot(req: Request, res: Response): void{
     res.send('Hello, from Colby!');
